@@ -40,5 +40,5 @@ Each model was evaluated based on:
 
 ## Recommendations
 - Prioritize contacting clients with past campaign engagement and success.
-- Refine outreach strategies around favorable time periods (e.g., March and May).
+- Refine outreach strategies around favorable time periods.
 - Use Decision Tree or Logistic Regression in production for their balance of accuracy and interpretability.
